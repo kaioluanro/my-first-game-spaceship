@@ -1,0 +1,54 @@
+.menuPower{
+width: 800px;
+height: 110px;
+background-color:#5A19BD;
+margin: 10px;
+margin-top: 25px;
+border-radius: 1.14em;
+border: 5px solid #893BFF ;
+box-shadow: 0 3px 15px #202020;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.menuPower .componentesMenu{
+  display: flex;
+  width: 600px;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px;
+}
+.menuPower .componentesMenu ul{
+  background-color: #360F70;
+  width: 60px;
+  height: 90px;
+  margin: 0;
+  border-radius: 1.14em;
+  border: 3px solid #9F68F2;
+  box-shadow: 0 0 20px rgb(34, 9, 71) inset;
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.menuPower .componentesMenu h1{
+color:#FFF;
+width:90px;
+height: 85px;
+margin: 0;
+margin-left: -40px;
+margin-top: 25px;
+font-size: 15px;
+text-align:center;
+
+
+}
+
+.menuPower .componentesMenu ul image{
+  width: 50px;
+  height: 50px;
+}
