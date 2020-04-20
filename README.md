@@ -23,7 +23,7 @@ Run in your terminal
 
 ### Using 
 
-Run inn your terminal
+Run in your terminal
 
 > npm start
 
